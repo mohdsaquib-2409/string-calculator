@@ -1,0 +1,43 @@
+# Node dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment files
+.env
+.env.*.local
+
+# Build output
+dist/
+build/
+out/
+coverage/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+*.log.*
+pids
+*.pid
+*.seed
+
+# TypeScript
+*.tsbuildinfo
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Next.js / React / Vite specific (optional, if

@@ -1,0 +1,16 @@
+{
+  "name": "incubyte-string-calculator-kata-js",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "String Calculator TDD Kata (JavaScript + Vitest). Crafted for Incubyte assessment.",
+  "scripts": {
+    "test": "vitest --run",
+    "test:watch": "vitest",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "vitest": "^2.0.0",
+    "eslint": "^9.0.0"
+  }
+}
